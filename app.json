@@ -21,6 +21,9 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "expo": {
+    "orientation": "default"
+  },
     "web": {
       "bundler": "metro",
       "output": "static",
